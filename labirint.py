@@ -7,7 +7,7 @@ pygame.init()
 WIDIH = 800
 HEIGHT = 500
 
-GREEN = (155,200, 155)
+GREEN = (155,204, 155)
 
 BLACK = (0, 0 , 0)
 
